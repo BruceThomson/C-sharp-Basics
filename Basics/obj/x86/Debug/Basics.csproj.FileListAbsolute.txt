@@ -1,0 +1,5 @@
+/Users/Bruce/Documents/Mizzou/SP2018/OO Design/Basics/Basics/obj/x86/Debug/Basics.csproj.CoreCompileInputs.cache
+/Users/Bruce/Documents/Mizzou/SP2018/OO Design/Basics/Basics/bin/Debug/Basics.exe
+/Users/Bruce/Documents/Mizzou/SP2018/OO Design/Basics/Basics/bin/Debug/Basics.pdb
+/Users/Bruce/Documents/Mizzou/SP2018/OO Design/Basics/Basics/obj/x86/Debug/Basics.exe
+/Users/Bruce/Documents/Mizzou/SP2018/OO Design/Basics/Basics/obj/x86/Debug/Basics.pdb
